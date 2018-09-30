@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\poor_balistics_shotgun.cs">
+    <Files>
+      <File FileName="Assets\HandsPositions.cs" Line="1" Column="1" />
+      <File FileName="Assets\HitGround.cs" Line="1" Column="1" />
+      <File FileName="Assets\GetDamage.cs" Line="1" Column="1" />
+      <File FileName="Assets\gameController.cs" Line="1" Column="1" />
+      <File FileName="..\Kłuak_Multi\Assets\BodyBending.cs" Line="1" Column="1" />
+      <File FileName="Assets\poor_balistics_shotgun.cs" Line="82" Column="16" />
+      <File FileName="Assets\HitTarget_pellet.cs" Line="14" Column="131" />
+      <File FileName="Assets\hitTarget_projectile.cs" Line="22" Column="4" />
+      <File FileName="Assets\WoodenBox.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
